@@ -1,0 +1,13 @@
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/bin/Release/net9.0/LinuxGlobalHotkeys.deps.json
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/bin/Release/net9.0/LinuxGlobalHotkeys.dll
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/bin/Release/net9.0/LinuxGlobalHotkeys.pdb
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/LinuxGlobalHotkeys.GeneratedMSBuildEditorConfig.editorconfig
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/LinuxGlobalHotkeys.AssemblyInfoInputs.cache
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/LinuxGlobalHotkeys.AssemblyInfo.cs
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/LinuxGlobalHotkeys.csproj.CoreCompileInputs.cache
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/LinuxGlobalHotkeys.sourcelink.json
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/LinuxGlobalHotkeys.dll
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/refint/LinuxGlobalHotkeys.dll
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/LinuxGlobalHotkeys.pdb
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/ref/LinuxGlobalHotkeys.dll
+/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/Release/net9.0/LinuxGlobalHotkeys.csproj.AssemblyReference.cache

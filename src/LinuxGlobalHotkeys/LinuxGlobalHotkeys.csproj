@@ -14,10 +14,12 @@
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <RepositoryUrl>https://github.com/culajunge/LinuxGlobalHotkeys</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
+        <PackageProjectUrl>https://github.com/culajunge/LinuxGlobalHotkeys</PackageProjectUrl>
     </PropertyGroup>
 
     <ItemGroup>
         <None Include="../../README.md" Pack="true" PackagePath="/"/>
+        <PackageReference Include="X11" Version="1.0.6"/>
     </ItemGroup>
 
 </Project>

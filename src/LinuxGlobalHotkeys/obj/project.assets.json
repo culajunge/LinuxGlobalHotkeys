@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "X11/1.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.1/X11.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/X11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "X11/1.0.6": {
+      "sha512": "Z9mLLyDjeB3k3FI2r3sqP35fKbAx1+gVKLapgFeKxAyXlKIhuQMMYht6jgTrvNaP+cmc6hg0kgh5MvTkqNynVA==",
+      "type": "package",
+      "path": "x11/1.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp2.1/X11.dll",
+        "x11.1.0.6.nupkg.sha512",
+        "x11.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "X11 >= 1.0.6"
+    ]
+  },
+  "packageFolders": {
+    "/home/rico/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/LinuxGlobalHotkeys.csproj",
+      "projectName": "LinuxGlobalHotkeys",
+      "projectPath": "/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/LinuxGlobalHotkeys.csproj",
+      "packagesPath": "/home/rico/.nuget/packages/",
+      "outputPath": "/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/nuget.config",
+        "/home/rico/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/bin/Release": {},
+        "/usr/lib/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "X11": {
+            "target": "Package",
+            "version": "[1.0.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.104/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

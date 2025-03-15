@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LinuxGlobalHotkeys/1.0.0": {
+        "dependencies": {
+          "X11": "1.0.6"
+        },
+        "runtime": {
+          "LinuxGlobalHotkeys.dll": {}
+        }
+      },
+      "X11/1.0.6": {
+        "runtime": {
+          "lib/netcoreapp2.1/X11.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinuxGlobalHotkeys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "X11/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z9mLLyDjeB3k3FI2r3sqP35fKbAx1+gVKLapgFeKxAyXlKIhuQMMYht6jgTrvNaP+cmc6hg0kgh5MvTkqNynVA==",
+      "path": "x11/1.0.6",
+      "hashPath": "x11.1.0.6.nupkg.sha512"
+    }
+  }
+}

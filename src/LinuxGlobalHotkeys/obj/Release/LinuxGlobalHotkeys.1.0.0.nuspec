@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LinuxGlobalHotkeys</id>
+    <version>1.0.0</version>
+    <authors>Rico</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/culajunge/LinuxGlobalHotkeys</projectUrl>
+    <description>A library for registering global hotkeys in Linux X11 environments</description>
+    <tags>linux x11 hotkeys shortcuts global-hotkeys</tags>
+    <repository type="git" url="https://github.com/culajunge/LinuxGlobalHotkeys" commit="d086fe0e4e39c95ff34fc7ae75a27e0548d3a8cb" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="X11" version="1.0.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/bin/Release/net9.0/LinuxGlobalHotkeys.dll" target="lib/net9.0/LinuxGlobalHotkeys.dll" />
+    <file src="/home/rico/Documents/repos/LinuxGlobalHotkeys/README.md" target="/README.md" />
+  </files>
+</package>

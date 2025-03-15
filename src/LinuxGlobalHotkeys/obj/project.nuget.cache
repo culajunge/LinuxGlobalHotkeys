@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNjyMUMPDeE=",
+  "success": true,
+  "projectFilePath": "/home/rico/Documents/repos/LinuxGlobalHotkeys/src/LinuxGlobalHotkeys/LinuxGlobalHotkeys.csproj",
+  "expectedPackageFiles": [
+    "/home/rico/.nuget/packages/x11/1.0.6/x11.1.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
