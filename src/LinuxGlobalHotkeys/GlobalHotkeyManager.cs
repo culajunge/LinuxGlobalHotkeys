@@ -2,6 +2,7 @@
 
 namespace LinuxGlobalHotkeys;
 
+//hello there
 public class GlobalHotkeyManager : IDisposable
 {
     // X11 constants
