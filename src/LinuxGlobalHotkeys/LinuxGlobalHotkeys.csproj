@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>LinuxGlobalHotkeys</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Rico</Authors>
+        <Company>ricode</Company>
+        <Description>A library for registering global hotkeys in Linux X11 environments</Description>
+        <PackageTags>linux;x11;hotkeys;shortcuts;global-hotkeys</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <RepositoryUrl>https://github.com/culajunge/LinuxGlobalHotkeys</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="../../README.md" Pack="true" PackagePath="/"/>
+    </ItemGroup>
+
+</Project>
