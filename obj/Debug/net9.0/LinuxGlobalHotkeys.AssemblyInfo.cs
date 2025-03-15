@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinuxGlobalHotkeys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58bb46d07aeb0e2228a9682b0dab4aec0a9771ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinuxGlobalHotkeys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinuxGlobalHotkeys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

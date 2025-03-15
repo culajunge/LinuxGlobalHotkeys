@@ -2,6 +2,8 @@
 
 A .NET library for registering global hotkeys/shortcuts in Linux X11 environments.
 
+Available on NuGet: [LinuxGlobalHotkeys](https://www.nuget.org/packages/LinuxGlobalHotkeys)
+
 ## Features
 
 - Register global keyboard shortcuts that work system-wide
